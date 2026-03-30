@@ -15,3 +15,12 @@ To generate your own image, select the Color R8G8B8 conversion and set the Block
 
 More images could be sent by using an SD card, to store these image data files.
 
+The overlay text functionality is not being used in this example.
+
+If you would like to learn more about the DDS frequency synthesis used in this code, AI may help (ChatGPT).
+Use the following prompt: "Explain simply how a dds uses accumulation and phasing and sine lookups to create a frequency."
+
+I have found that the RFI from the radio caused interference with the esp32-s3 and power supply. Using shielded wires from the esp32-s3 to the radio has helped significantly.
+
+
+
