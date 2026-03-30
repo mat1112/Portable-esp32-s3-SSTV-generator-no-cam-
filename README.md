@@ -27,6 +27,6 @@ GPIO 5 is the PTT control signal. This goes to the ground of above plug.
 GPIO 6 is a spare wire, which may be used with a buzzer, if required.
 GPIO 7 is to wake the esp32-s3 from deep sleep and resend the SSTV image. Connect momentarily to ground 0v.
 
-
+73, Mat ZS6EG
 
 
