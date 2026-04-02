@@ -28,6 +28,3 @@ GPIO 6 is a spare wire, which may be used with a buzzer, if required.
 GPIO 7 is to wake the esp32-s3 from deep sleep and resend the SSTV image. Connect momentarily to ground 0v.
 
 73, Mat ZS6EG
-
-In Code v1, the blue and red channels are crossed (as per original code).
-Code v2 fixes the above and adds some more commenting.
